@@ -1,0 +1,10 @@
+C:\Users\Qwegi\Documents\UtilityTest\bin\Debug\UtilityTest.exe.config
+C:\Users\Qwegi\Documents\UtilityTest\bin\Debug\UtilityTest.exe
+C:\Users\Qwegi\Documents\UtilityTest\bin\Debug\UtilityTest.pdb
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.csproj.AssemblyReference.cache
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.MainForm.resources
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.Properties.Resources.resources
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.csproj.GenerateResource.cache
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.csproj.CoreCompileInputs.cache
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.exe
+C:\Users\Qwegi\Documents\UtilityTest\obj\Debug\UtilityTest.pdb
